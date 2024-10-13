@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @DanielRiezebos
-- 👀 I’m interested in web-development in many forms
-- 🌱 I’m currently learning Symfony development!
-- 📫 How to reach me [LinkedIn](https://nl.linkedin.com/in/daniel-riezebos-2671a7118) (no recruiters)
+My name is Daniel Riezebos. ⚔️
 
-<!---
-DanielRiezebos/DanielRiezebos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a software developer with several years of experience in the field and you have just found my Github page!
+You'll mostly find repositories of varying degrees that I worked on in the past, usually to try something out.
+You can reach me via [LinkedIn](https://nl.linkedin.com/in/daniel-riezebos-2671a7118). No recruiters please!
